@@ -28,6 +28,9 @@
     "jshint": "^2.9.4"
   },
   "devDependencies": {
-    "gulp": "^3.9.1"
+    "browser-sync": "^2.18.7",
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^3.0.0",
+    "gulp-concat-css": "^2.3.0"
   }
 }
