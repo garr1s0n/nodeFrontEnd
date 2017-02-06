@@ -1,0 +1,20 @@
+{
+  "name": "nodefrontend",
+  "description": "This is to test the front end build process for NodeJS",
+  "main": "app.js",
+  "authors": [
+    "Gary Wilpizeski"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "test"
+  ],
+  "homepage": "https://github.com/garr1s0n/nodeFrontEnd",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
