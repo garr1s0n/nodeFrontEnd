@@ -1,14 +1,14 @@
-.content { 
+body { 
     padding: 1em; 
     background: #eee;
     color: #3e3ed3;
 }
-.content h1 {
+h1 {
     font-size: 5em;
     font-weight: 700;
 }
 
-.content p {
+p {
     text-align: center;
     margin: 0 auto .5em;
     width: 95%;
