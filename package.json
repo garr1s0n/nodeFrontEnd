@@ -1,0 +1,22 @@
+{
+  "name": "nodefrontend",
+  "version": "1.0.0",
+  "description": "This is to test the front end build process for NodeJS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/garr1s0n/nodeFrontEnd.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Gary",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/garr1s0n/nodeFrontEnd/issues"
+  },
+  "homepage": "https://github.com/garr1s0n/nodeFrontEnd#readme"
+}
