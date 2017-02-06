@@ -3,3 +3,19 @@
     background: #eee;
     color: #3e3ed3;
 }
+.content h1 {
+    font-size: 5em;
+    font-weight: 700;
+}
+
+.content p {
+    text-align: center;
+    margin: 0 auto .5em;
+    width: 95%;
+    max-width: 48em;
+}
+
+.content p span {
+    font-weight: 700;
+    font-style: italic;
+}
