@@ -16,7 +16,7 @@ gulp.task('css', function() {
 
 gulp.task('serve', function() {
     browserSync.init({
-        server: "./"
+        server: "./dist/"
     });
 });
 
