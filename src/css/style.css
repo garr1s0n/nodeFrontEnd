@@ -17,7 +17,11 @@ p {
     padding: 0 .5em;
 }
 
-.copy { font-size: .925em; color: #333; text-align: left; }
+.copy { 
+    font-size: .925em; 
+    color: #333; 
+    text-align: left; 
+}
 
 .content p span {
     font-weight: 700;
