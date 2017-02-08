@@ -31,6 +31,9 @@
     "browser-sync": "^2.18.7",
     "gulp": "^3.9.1",
     "gulp-clean-css": "^3.0.0",
-    "gulp-concat-css": "^2.3.0"
+    "gulp-concat-css": "^2.3.0",
+    "gulp-inject": "^4.2.0",
+    "gulp-jsmin": "^0.1.5",
+    "preen": "^1.2.0"
   }
 }

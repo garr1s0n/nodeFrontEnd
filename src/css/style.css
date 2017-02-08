@@ -13,6 +13,7 @@ p {
     margin: 0 auto .5em;
     width: 95%;
     max-width: 48em;
+    padding: 0 .5em;
 }
 
 .content p span {
