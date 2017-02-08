@@ -45,7 +45,7 @@ gulp.task('serve', function() {
 // Build Tasks
 gulp.task('default', ['serve','css','js','copy','bowersource'], function () {
     gulp.watch('src/index.html', ['bowersource','copy']);
-    gulp.watch('src/js/script.css', ['js']);
+    gulp.watch('src/js/script.js', ['js']);
     gulp.watch('src/css/style.css', ['css']);
     gulp.watch('src/**/*.*').on('change', browserSync.reload);
 });
